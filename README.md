@@ -8,4 +8,4 @@ with the "Play Again?" button.
 
 Important: Before starting your first game, please click on "New Colours".
 
-Link: https://sanaa-sys.github.io/Javascript-Game.github.io/
+
